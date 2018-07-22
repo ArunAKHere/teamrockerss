@@ -1,0 +1,111 @@
+#uppergrid
+{
+	background-color: #1f1f1f;
+	height: 10px;
+	width: 100%;
+}
+body
+{
+	background-color: white;
+}
+#cont
+{
+	background-color: white;
+	
+	width: 70%;
+	margin: 0px auto;
+}
+#header
+{
+	height: 80px;
+	background-color: white;
+}
+#header img 
+{
+	height: 80px;
+}
+#header ul
+{
+	float: right;
+	margin-top: 25px;
+}
+#header ul li 
+{
+	display: inline;
+	margin-right: 20px;
+}
+#header ul li a 
+{
+	color: grey;
+	text-decoration: none;
+	font-size: 17px;
+
+}
+#banner img 
+{
+	width: 100%;
+	padding-bottom: 25px;
+}
+#cnt1
+{
+	width: 32%;
+	height: 320px;
+	background-color: #f86900;
+	float: left;
+	margin-right: 2%;
+
+}
+#cnt1 img
+{
+	width: 40%;
+	margin-left: 93px;
+	padding-bottom: 20px;
+	
+}
+#cnt2
+{
+	width: 32%;
+	height: 320px;
+	background-color: #ffc502;
+	float: left;
+
+}
+#cnt2 img
+{
+	width: 40%;
+	margin-left: 93px;
+	padding-bottom: 20px;
+	
+}
+#cnt3
+{
+	width: 32%;
+	height: 320px;
+	background-color: #a2c511;
+	float: right;
+
+}
+#cnt3 img
+{
+	font-family: BigNoodleTitling Regular;
+	width: 40%;
+	margin-left: 93px;
+	padding-bottom: 20px;
+	
+}
+.heading
+{
+	color: white;
+	margin-left: 78px;
+	font-size: 28px;
+}
+#footer
+{
+	margin: 30px;
+background-color: black;
+height: 30px;
+width: 100%;
+clear: both;
+
+
+}
